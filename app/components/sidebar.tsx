@@ -119,9 +119,9 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>ChatGPT 4.0 共享版</div>
+        <div className={styles["sidebar-title"]}>小浦ChatGPT私用版</div>
         <div className={styles["sidebar-sub-title"]}>
-          开发者内部人员专用ChatGPT4.0.
+          开发者内部人员专用ChatGPT.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
