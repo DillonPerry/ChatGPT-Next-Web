@@ -200,7 +200,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "📨梓清Chat，欢迎进入[QQ交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=VslFURoRkhFwWwLRPZ_zxqOWta2nFCS_&authKey=1U2BdDaSmcQAF0GvL2qAklL1jx%2BYUTD%2B7KR9ZHknv2WhZfCkDXW%2B0tVYOaojvOxG&noverify=0&group_code=945394924)\n\n🔑由于提供的是免费服务仅开启GPT3.5🪧\n\n🪜国内即可使用，不需要任何翻墙软件。",
+    BotHello: "📨梓清Chat，欢迎进入QQ交流群[点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=VslFURoRkhFwWwLRPZ_zxqOWta2nFCS_&authKey=1U2BdDaSmcQAF0GvL2qAklL1jx%2BYUTD%2B7KR9ZHknv2WhZfCkDXW%2B0tVYOaojvOxG&noverify=0&group_code=945394924)\n\n🔑由于提供的是免费服务仅开启GPT3.5🪧\n\n🪜国内即可使用，不需要任何翻墙软件。",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
